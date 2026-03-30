@@ -1,5 +1,5 @@
-a = int(input("Enter a: "))
-b = int(input("Enter b: "))
+a = int(input("Enter ax2: "))
+b = int(input("Enter bx: "))
 c = int(input("Enter c: "))
 
 root1 = (-b + (b*b - 4*a*c)**0.5) / (2*a)
